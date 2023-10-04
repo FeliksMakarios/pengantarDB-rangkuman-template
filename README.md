@@ -1,4 +1,4 @@
-# Template rangkuman perkuliahan Pengantar Basis Data UPH
+# Template Catatan Perkuliahan Pengantar Basis Data UPH
 ---
 ## 📝 Instruksi:
 
