@@ -1,3 +1,5 @@
+## 📘 My Personal Notes
+
 ### 🗓️ Week 1: Introduction to Database (DB)
 
 #### 📍 Definition and Purpose of Database
