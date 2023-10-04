@@ -20,3 +20,7 @@
 ... (dan seterusnya untuk sub-topik lainnya di Minggu 1)
 
 ---
+
+(_Template di atas dapat diulangi untuk minggu-minggu berikutnya dengan topik dan sub-topik yang relevan._)
+
+---
